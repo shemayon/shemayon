@@ -26,4 +26,4 @@ I am eager to collaborate with diverse and challenging clients to further enhanc
 ### 📫 Contact Me
 
 - LinkedIn: www.linkedin.com/in/shemayon-soloman
-- Email: shematons@gmail.com
+- Email: shemayons@gmail.com

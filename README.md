@@ -3,8 +3,9 @@
 
 ##                                                                                 About Me
 ✨ I am a passionate individual with a keen interest in emerging technologies, particularly in exploring novel applications and opportunities they present for real-world solutions using ML/AI. ✨
+---
 🔭 Currently, I am working as a Project Associate at C-DAC: Centre for Development of Advanced Computing, in Thiruvananthapuram, Kerala. 
-
+---
 ##                                                                               🪡My Skills
 
 - **Languages:** Python, SQL

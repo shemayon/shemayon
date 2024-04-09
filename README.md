@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate **with diverse and challenging clients to further enhance my skills and contribute to impactful projects in the field of ML/AI.**
 
-- 📝 I regularly write articles on [https://medium.com/@shemayons](https://medium.com/@shemayons)
-
 - 💬 Ask me about **python, sql, machine learning, deep learning, reinforcement learning**
 
 - 📫 How to reach me **shemayons@gmail.com**

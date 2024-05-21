@@ -4,14 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47663lgm2upu0dq3pun9ptgl5e5uwsvu4qfairjsho&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working as **Project Engineer at CDAC - Thiruvananthapuram**
-- **My Expertise in Healthcare AI**
-<p>I bring a strong background in healthcare AI, having worked on projects like:<\p>
-
-**TNBC cancer research** (ongoing): I'm currently collaborating with RCC on a project focused on Triple-Negative Breast Cancer (TNBC).
-**Real-time eye tracking & gaze estimation**: aimed to understand the focus patterns of autistic students to gauge their interest.
-**Emotion-based saliency mapping**: explored using real-time emotions to determine areas of visual attention.
-**Medical image analysis**: I have experience in skull stripping (brain extraction) and Alzheimer's detection using medical imaging.
-
 
 - 👯 I’m looking to collaborate **with diverse and challenging clients to further enhance my skills and contribute to impactful projects in the field of ML/AI.**
 

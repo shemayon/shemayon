@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Project Engineer at CDAC - Thiruvananthapuram**
 - **My Expertise in Healthcare AI**
-I bring a strong background in healthcare AI, having worked on projects like:
+<p>I bring a strong background in healthcare AI, having worked on projects like:<\p>
 
 **TNBC cancer research** (ongoing): I'm currently collaborating with RCC on a project focused on Triple-Negative Breast Cancer (TNBC).
 **Real-time eye tracking & gaze estimation**: aimed to understand the focus patterns of autistic students to gauge their interest.

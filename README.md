@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **python, sql, machine learning, deep learning, reinforcement learning**
 
+- 📝 I write articles on **https://medium.com/@shemayons**
+
 - 📫 How to reach me **shemayons@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

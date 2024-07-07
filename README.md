@@ -4,27 +4,31 @@
 
 ## 📋 About Me
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN1aTZzZ3ltOXlwcTc1N2RvOGUwdHF3Znc2azlpbXdhdHJ5NWtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwG7FRGsIIYRzEI/giphy.webp" align="left" width="300">
-    <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" align="left" width="300">
-  </div>
-  <div style="flex: 2;">
-    <p>📌 --> Seedling at CDAC - Thiruvananthapuram as Project Engineer</p>
-    <p>🔬 --> I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs</p>
-    <p>📝 I write articles on <a href="https://medium.com/@shemayons">Medium</a></p>
-    <p>📫 How to reach me: <a href="mailto:shemayons@gmail.com">shemayons@gmail.com</a></p>
-  </div>
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1cHR6OGV3aGpocW4zY2VkOWdyMWswM2kzazQ5YjNvMnpvYm5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddGFVs4FW7Xx6deIpa/giphy.webp" align="left"></img>
+
+
+{
+  "experience": "📌 --> Seedling at CDAC - Thiruvananthapuram as Project Engineer",
+  "interests": "🔬 --> I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs",
+  "articles": "📝 I write articles on **https://medium.com/@shemayons**",
+  "contact": "📫 How to reach me **shemayons@gmail.com**"
+}
+
+ 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shemayon soloman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shemayon soloman" height="30" width="40" /></a>
+</p>
 
 <br/>
 <br/>
 
 ## 🪡 My Skills
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oN2Roazg2YXNieWRiZ20wN2R1MHp4YWk4d2Z5eG91c3JsMzd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGLncdsBmgwVfkJLSc/giphy.webp" align="right" width="200">
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="right"></img>
 <div align="right">
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

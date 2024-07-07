@@ -1,39 +1,30 @@
 ![Banner image](https://github.com/shemayon/shemayon/blob/main/hi.png)
 
-
-
 <h3 align="center">An enthusiastic ML/AI engineer</h3>
-
 
 ## 📋 About Me
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN1aTZzZ3ltOXlwcTc1N2RvOGUwdHF3Znc2azlpbXdhdHJ5NWtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwG7FRGsIIYRzEI/giphy.webp" align="left"></img>
-<img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" align="left"></img>
-
-
-{
-  "experience": "📌 --> Seedling at CDAC - Thiruvananthapuram as Project Engineer",
-  "interests": "🔬 --> I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs",
-  "articles": "📝 I write articles on **https://medium.com/@shemayons**",
-  "contact": "📫 How to reach me **shemayons@gmail.com**"
-}
-
- 
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN1aTZzZ3ltOXlwcTc1N2RvOGUwdHF3Znc2azlpbXdhdHJ5NWtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwG7FRGsIIYRzEI/giphy.webp" align="left" width="300">
+    <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" align="left" width="300">
+  </div>
+  <div style="flex: 2;">
+    <p>📌 --> Seedling at CDAC - Thiruvananthapuram as Project Engineer</p>
+    <p>🔬 --> I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs</p>
+    <p>📝 I write articles on <a href="https://medium.com/@shemayons">Medium</a></p>
+    <p>📫 How to reach me: <a href="mailto:shemayons@gmail.com">shemayons@gmail.com</a></p>
+  </div>
+</div>
 
 <br/>
 <br/>
 
 ## 🪡 My Skills
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oN2Roazg2YXNieWRiZ20wN2R1MHp4YWk4d2Z5eG91c3JsMzd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGLncdsBmgwVfkJLSc/giphy.webp" align="right"></img>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oN2Roazg2YXNieWRiZ20wN2R1MHp4YWk4d2Z5eG91c3JsMzd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGLncdsBmgwVfkJLSc/giphy.webp" align="right" width="200">
+
 <div align="right">
-
-
-
-
-
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,7 +63,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
-

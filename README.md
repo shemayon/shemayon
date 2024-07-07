@@ -1,4 +1,5 @@
-<img src="https://github.com/shemayon/shemayon/blob/main/hi.png" alt="Banner image" width="300"/>
+![Banner image](https://github.com/shemayon/shemayon/blob/main/hi.png)
+
 
 
 <h3 align="center">An enthusiastic ML/AI engineer</h3>

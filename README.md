@@ -2,7 +2,7 @@
 
 <h3 align="center">An enthusiastic ML/AI engineer</h3>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1cHR6OGV3aGpocW4zY2VkOWdyMWswM2kzazQ5YjNvMnpvYm5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddGFVs4FW7Xx6deIpa/giphy.webp" align="right" width="200" height="200"></img>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1cHR6OGV3aGpocW4zY2VkOWdyMWswM2kzazQ5YjNvMnpvYm5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddGFVs4FW7Xx6deIpa/giphy.webp" align="right" width="300" height="300"></img>
 
 
 📌 Seedling at CDAC - Thiruvananthapuram as Project Engineer
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/shemayon soloman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shemayon soloman" height="30" width="40" /></a>
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="left"></img>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="left" width="300" height="300"></img>
 <div align="left">
 
 

@@ -1,3 +1,4 @@
+![Banner image](https://github.com/shemayon/shemayon/blob/main/hi.png)
 <h1 align="center">Hi 👋, I'm Shemayon Soloman</h1>
 <h3 align="center">A passionate ML/AI engineer from Kerala, India</h3>
 

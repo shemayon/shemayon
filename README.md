@@ -6,8 +6,11 @@
 
 
 📌 Seedling at CDAC - Thiruvananthapuram as Project Engineer
+
 🔬 I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs
+
 📝 I write articles on https://medium.com/@shemayons
+
 📫 How to reach me shemayons@gmail.com
 
 <h3 align="left">Connect with me:</h3>

@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="right" width="300" height="300"></img>
-<div align="right">
+<div align="left">
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

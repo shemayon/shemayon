@@ -2,16 +2,16 @@
 
 <h3 align="center">An enthusiastic ML/AI engineer</h3>
 
-## 📋 About Me
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1cHR6OGV3aGpocW4zY2VkOWdyMWswM2kzazQ5YjNvMnpvYm5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddGFVs4FW7Xx6deIpa/giphy.webp" align="left"></img>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1cHR6OGV3aGpocW4zY2VkOWdyMWswM2kzazQ5YjNvMnpvYm5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddGFVs4FW7Xx6deIpa/giphy.webp" align="right"></img>
 
 
 {
-  "experience": "📌 --> Seedling at CDAC - Thiruvananthapuram as Project Engineer",
-  "interests": "🔬 --> I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs",
-  "articles": "📝 I write articles on **https://medium.com/@shemayons**",
-  "contact": "📫 How to reach me **shemayons@gmail.com**"
+
+  "experience": "Seedling at CDAC - Thiruvananthapuram as Project Engineer",
+  "interests": "I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs",
+  "articles": "I write articles on **https://medium.com/@shemayons**",
+  "contact": "How to reach me **shemayons@gmail.com**"
+  
 }
 
  
@@ -21,13 +21,11 @@
 <a href="https://linkedin.com/in/shemayon soloman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shemayon soloman" height="30" width="40" /></a>
 </p>
 
-<br/>
-<br/>
 
 ## 🪡 My Skills
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="right"></img>
-<div align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="left"></img>
+<div align="left">
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

@@ -1,3 +1,4 @@
+
 ![Banner image](https://github.com/shemayon/shemayon/blob/main/hi.png)
 
 <h3 align="center">An enthusiastic ML/AI engineer</h3>
@@ -61,3 +62,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>

@@ -19,6 +19,8 @@
 <a href="https://linkedin.com/in/shemayon soloman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shemayon soloman" height="30" width="40" /></a>
 </p>
 
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="right" width="300" height="300"></img>

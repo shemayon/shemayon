@@ -1,5 +1,5 @@
 
-![Banner image](https://github.com/shemayon/shemayon/blob/main/hi.png)
+![Banner image](https://github.com/shemayon/shemayon/blob/main/or.png)
 
 <h3 align="center">An enthusiastic ML/AI engineer</h3>
 

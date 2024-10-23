@@ -3,7 +3,7 @@
 
 <h3 align="center">An enthusiastic ML/AI engineer</h3>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF1cHR6OGV3aGpocW4zY2VkOWdyMWswM2kzazQ5YjNvMnpvYm5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddGFVs4FW7Xx6deIpa/giphy.webp" align="left" width="250" height="250"></img>
+
 
 
 📌 Seedling at CDAC - Thiruvananthapuram as Project Engineer
@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9mdGNyMmtjMTYxMTJ4bHBhcWQxaGszaDUzejR1dDVibTZocmQ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M29vcagpK9WIHHGmav/giphy.webp" align="right" width="250" height="250"></img>
+
 <div align="left">
 
 

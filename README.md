@@ -6,7 +6,9 @@
 
 
 
-📌 Seedling at CDAC - Thiruvananthapuram as Project Engineer
+📌 Seedling at MindsMap AI Services as ML Engineer
+
+📌 Ex-CDAC - Thiruvananthapuram as AI Engineer
 
 🔬 I enjoy working on projects in Machine Learning, Deep Learning, Computer Vision, and LLMs
 
